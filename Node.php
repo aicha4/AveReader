@@ -79,14 +79,14 @@ class Node
     public function nodeXML($doc){
         $xmlNode=$doc->createElement($this->_name);
 
-        $xmlName= $doc->createTextNode($this->_value);
+        //$xmlName= $doc->createTextNode($this->_value);
 
         foreach($this->_attributes as $key=>$value){
             $xmlNode->setAttribute($key,$value);
 
         }
         //
-        $xmlNode->appendChild($xmlName);
+        //$xmlNode->appendChild($xmlName);
         $xmlNode=$doc->appendChild($xmlNode);
 
         return $xmlNode;
