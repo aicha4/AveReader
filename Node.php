@@ -49,15 +49,48 @@ class Node
 
     }
 
+    public function setAttributes($array){
+        if(is_array($array)){
+            $this->_attributes=$array;
+        }
+    }
+
     public function addAttribute($attribute,$value){
 
-        array_push($this->_attributes,$attribute,$value);
+        //array_push($this->_attributes,$attribute,$value);
+        $this->_attributes[$attribute]=$value;
+
 
     }
 
     public function addChild(Node $child){
 
         array_push($this->_children,$child);
+    }
+
+    public function __construct($name)
+    {
+        if(is_string($name)){
+            $this->setName($name);
+        }
+
+    }
+
+    public function nodeXML($doc){
+        $xmlNode=$doc->createElement($this->_name);
+
+        $xmlName= $doc->createTextNode($this->_value);
+
+        foreach($this->_attributes as $key=>$value){
+            $xmlNode->setAttribute($key,$value);
+
+        }
+        //
+        $xmlNode->appendChild($xmlName);
+        $xmlNode=$doc->appendChild($xmlNode);
+
+        return $xmlNode;
+
     }
 
 

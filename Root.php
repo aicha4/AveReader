@@ -41,5 +41,25 @@ class Root
         array_push($this_children,$child);
     }
 
+    public function __construct($name)
+    {
+        if(is_string($name)){
+            $this->setName($name);
+        }
+
+    }
+
+    public function nodeXML($dom){
+        $xmlNode=$dom->createElement($this->_name);
+        $xmlNode->setAttribute('version',$this->_version);
+        $xmlNode=$dom->appendChild($xmlNode);
+        $xmlName= $dom->createTextNode('');
+
+        $xmlNode->appendChild($xmlName);
+
+        return $xmlNode;
+
+    }
+
 
 }
