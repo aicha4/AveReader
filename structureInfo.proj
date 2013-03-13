@@ -1,0 +1,309 @@
+<?xml version="1.0"?>
+<structure_info version="3.0.0">
+    <document id="70" title="" author="InDesign" editor="InDesign" publishingYear="2011" collection="InDesign"
+              reader="901" mutiplePageSummary="1" pageCaptionSummary="910"/>
+    <pages>
+        <spread pageId="0" name="362-1.pdf" fileName="362-1.pdf" thumbnail="thumb500-previewPage-362-1.jpg"
+                preview="previewPage-362-1.jpg" width="595.275590551" height="841.889763778" indexInPdf="0"/>
+        <spread pageId="1" preview="previewPage-362-2.jpg" thumbnail="thumb500-previewPage-362-2.jpg">
+            <page name="362-2.pdf" fileName="362-2.pdf" width="595.275590551" height="841.8897637780001"
+                  indexInPdf="0"/>
+            <page name="362-2.pdf" fileName="362-2.pdf" width="595.275590551" height="841.8897637780001"
+                  indexInPdf="1"/>
+        </spread>
+        <spread pageId="2" preview="previewPeanuts.jpg" thumbnail="peanuts.jpg">
+                    <page name="peanuts.pdf" fileName="peanuts.pdf" width="595.275590551" height="841.8897637780001"
+                          indexInPdf="0"/>
+                    <page name="peanuts.pdf" fileName="peanuts.pdf" width="595.275590551" height="841.8897637780001"
+                          indexInPdf="1"/>
+        </spread>
+
+    </pages>
+    <medias>
+        <media id="0" type="1002" width="1" height="1" lang="fr">
+            <locales>
+                <locale lang="fr" fileName="362/thumb362_301-1__landscape.jpg"
+                        importName="362/thumb362_301-1__landscape.jpg"/>
+            </locales>
+        </media>
+        <media id="1" type="1002" width="1" height="1" lang="fr">
+            <locales>
+                <locale lang="fr" fileName="362/thumb362_301-2__landscape.jpg"
+                        importName="362/thumb362_301-2__landscape.jpg"/>
+            </locales>
+        </media>
+        <media id="2" type="1002" width="1" height="1" lang="fr">
+            <locales>
+                <locale lang="fr" fileName="362/thumb362_301-3__landscape.jpg"
+                        importName="362/thumb362_301-3__landscape.jpg"/>
+            </locales>
+        </media>
+        <media id="3" type="1002" width="1" height="1" lang="fr">
+            <locales>
+                <locale lang="fr" fileName="362/thumb362_301-4__landscape.jpg"
+                        importName="362/thumb362_301-4__landscape.jpg"/>
+            </locales>
+        </media>
+        <media id="4" type="1001" width="399" height="250" lang="fr">
+            <locales>
+                <locale lang="fr" fileName="362/f958fc99b1f0f43f.mov" importName="362/f958fc99b1f0f43f.mov"/>
+            </locales>
+        </media>
+    </medias>
+    <structure>
+        <devices>
+            <device name="Screen" type="Screen" width="200" height="200">
+                <pages>
+                    <page pageId="0">
+                        <scenes>
+                            <scene id="1" type="500" x="0.36117724867736" y="0.080770669659705" width="0.27718253968262"
+                                   height="0.09146090534996" backgroundColor="#000000" backgroundColorActive="0">
+                                <shots>
+                                    <shot id="0" x="0" y="0" width="1" height="1" align="105" lockedTime="0" type="610">
+                                        <actions/>
+                                        <zones>
+                                            <zoneText id="0" x="0" y="0" width="1" height="1" backgroundColor="#000000">
+                                                <text>&lt;span style="font-size: 16px"&gt;Titre&lt;/span&gt;</text>
+                                            </zoneText>
+                                        </zones>
+                                    </shot>
+                                </shots>
+                            </scene>
+                            <scene id="2" type="500" x="0.072235449735472" y="0.25656565656612" width="0.37293650793662"
+                                   height="0.54282641227184" backgroundColor="#000000" backgroundColorActive="0">
+                                <shots>
+                                    <shot id="1" x="0" y="0" width="1" height="1" align="105" lockedTime="0" type="610">
+                                        <actions/>
+                                        <zones>
+                                            <zoneText id="1" x="0" y="0" width="1" height="1" backgroundColor="#000000">
+                                                <text>&lt;span style="font-size: 16px"&gt;Entibus qui dem aligendio est
+                                                    labo. Nam et, anima es aut ulparum verum doloruptas vit volupti rem
+                                                    ent aliquis si dolorem eium quaesci deristestia ipsaecae culparuptat
+                                                    optaspisti consecte solore, soluptassit omnis namust, ipidelenimi,
+                                                    consed quodicit, conecte nihillo ressim eos estius, arum aut quibus,
+                                                    ommodig endit, et a dit platiam ut aut magnita temolorum quat
+                                                    doloreh endunde liquam, quiasimi, con reius atem re rectis as
+                                                    doluptas estionsentus id mi, corumqu iditata qui tem volupiet
+                                                    quibustiis mil inus simaxim voluptates essequam sumenie ndemquo
+                                                    ipsum et labo. Et lis earumqu assitae ssentur? Uciae. Officiumet
+                                                    volo comniminciis rehenis que cullento conse res re, susant mi, nis
+                                                    doluptaspis dolupiet aut vent.&lt;br/&gt;Abore cullam quunda
+                                                    doluptata dolorum della doles mi, sequi test alit apid ma volentiur,
+                                                    ipicil modionsequi quossimin pelit dolor assequi con excepro beribus
+                                                    dit reprovid quas vition exerro et quid quo odipsunte ni dolluptat
+                                                    velesen imagnimolori blaboru ptassit quat dem asitat eosam
+                                                    simagnisto estia culliquodis quassed quiam fugitem ea quo et resecer
+                                                    essitas et velecat od exceptatur adio eossitatinis pror ant pos nos
+                                                    re lautatque dem andel id qui tem sum resequa simpos sum dolupiet
+                                                    iuscia cuptae peditem poraerf eribus, enihiliqui aut quos enem cus
+                                                    resto odis duciaecae non et velliquid quid quatibus sernamusam
+                                                    earibus sunt, utatur sum, sa dolenet et quid
+                                                    essinti&lt;/span&gt;</text>
+                                            </zoneText>
+                                        </zones>
+                                    </shot>
+                                </shots>
+                            </scene>
+                        </scenes>
+                    </page>
+                    <page pageId="1">
+                        <scenes>
+                            <scene id="5" type="500" x="0.55268518518535" y="0.086709689487625" width="0.3494179894181"
+                                   height="0.32070707070765" backgroundColor="#000000" backgroundColorActive="0">
+                                <shots>
+                                    <shot id="2" x="0" y="0" width="1" height="1" align="105" lockedTime="0" type="610">
+                                        <actions/>
+                                        <zones>
+                                            <zoneText id="2" x="0" y="0" width="1" height="1" backgroundColor="#000000">
+                                                <text>&lt;span style="font-size: 16px"&gt;Abo. Nequatemque voluptur?&lt;br/&gt;Ullestorro
+                                                    de sequis ariore re imus vendend itatur? Quia quis imillabo. Nam uta
+                                                    nobitate omnieni aturitiatus de que dus andicient fugitempor
+                                                    magnisciae comni aut et eumet aut repellam cum volum hil ipidemque
+                                                    vel modipsam, sim fugitiam, quia inisimus dollam, sequunti quo odi
+                                                    dolorepta voluptat lame ipidendus maximolorror autemo bearcipsant
+                                                    facea pa posam fugitateces adis et perem es et officit, qui ratum
+                                                    iminis moluptatus debitae ssitiossi nis dolor sendis aut volecta
+                                                    sincientem facia con reium velectotaqui ut vendit minum eos quia
+                                                    velliciis ratur sitatis totatus minctem et derume volupta aut inis
+                                                    parum ut offic to tendae secerspedi omnis voluptatios quam quamet
+                                                    denitaepero esequos eatumque sum venis ab il modi ut adit volliqu
+                                                    aeculla perum il maximol uptaque est velis ad mod quaecus, comnime
+                                                    nobiscitiume nes iur, totas pa voluptatur autes duntiun torpor aut
+                                                    quistis quoditaest, etur?&lt;br/&gt;Nequis re lam fugit, to
+                                                    maximaio. Is quis pa quiat venis conet aut que ne nobitatios et ex
+                                                    etus sequo estio. Nequi que a dundae optaque omnis si odignis
+                                                    repudisqui conem ratem et venda ius delicie nemporitem explabora non
+                                                    ra dio commolu ptaspiet reris ent la plandam cuptatem ra alisque
+                                                    videlique nieni ut doluptiur reperum volorupta sequunt, quiam, eate
+                                                    re libus as ipsam, oditis solorec tiossitae quibusdam sit quae enda
+                                                    ist, comnis sit et aliberum ad quias alique paruptur?&lt;br/&gt;Niaturis
+                                                    invendaecte offictu santiusam ut arum secturis maximi, si sum ium
+                                                    eos eaquid&lt;/span&gt;</text>
+                                            </zoneText>
+                                        </zones>
+                                    </shot>
+                                </shots>
+                            </scene>
+                            <scene id="3" type="500" x="0.061316137566156" y="0.071268237935034"
+                                   width="0.34101851851862" height="0.33614852226024" backgroundColor="#000000"
+                                   backgroundColorActive="0">
+                                <shots>
+                                    <shot id="3" x="0" y="0" width="1" height="1" align="105" lockedTime="0" type="600">
+                                        <actions/>
+                                    </shot>
+                                </shots>
+                            </scene>
+                            <scene id="4" type="500" x="0.067195767195788" y="0.57846053123936" width="0.33513888888899"
+                                   height="0.29695099139597" backgroundColor="#000000" backgroundColorActive="0">
+                                <shots>
+                                    <shot id="4" x="0" y="0" width="1" height="1" align="105" lockedTime="0" type="600">
+                                        <actions/>
+                                    </shot>
+                                </shots>
+                            </scene>
+                        </scenes>
+                    </page>
+                    <page pageId="2">
+                        <scenes>
+                            <scene id="6" type="500" x="0.55268518518535" y="0.086709689487625" width="0.3494179894181"
+                                                               height="0.32070707070765" backgroundColor="#000000" backgroundColorActive="0">
+                                <shots>
+                                    <shot id="3" x="0" y="0" width="1" height="1" align="105" lockedTime="0" type="600">
+                                        <actions/>
+                                            <zones>
+                                                 <zoneText id="2" x="0" y="0" width="1" height="1" backgroundColor="#000000">
+                                                 </zoneText>
+                                            </zones>
+                                    </shot>
+                                </shots>
+                            </scene>
+                        </scenes>
+                    </page>
+                </pages>
+                <sceneTransitions/>
+                <table_of_contents/>
+                <readers>
+                    <reader type="716" scene_list="3">
+                        <extra>
+                            <imageCollection version="1.0" _version="3.0.9" id="362-301" x="73" y="60" width="406"
+                                             height="283" userInteractionEnabled="1" _useOriginalImageAsset="0"
+                                             _displayName="imageCollection301" isPersistent="0"
+                                             typeId="com.aquafadas.slideshow" canScroll="1" fullScreen="0"
+                                             useBackgroundInLayout="0" showPageControl="0" startIndex="0"
+                                             cellBackgroundColor="#000000ff" groupIds="Calque 1" hidden="0"
+                                             backgroundColor="#00000000">
+                                <images>
+                                    <image version="1.0" _version="3.0.9" id="-1" x="0" y="0" width="406" height="283"
+                                           userInteractionEnabled="1" _useOriginalImageAsset="0" _displayName="image-1"
+                                           isPersistent="0" typeId="com.aquafadas.image" canScroll="0" fullScreen="0"
+                                           _useCropForFullScreen="0" transparentInLayout="0" panZoom="0"
+                                           imageFormat="jpeg" jpegPercentCompression="75" gallery="0" galleryScale="1"
+                                           realImageFormat="null" realHeight="3409" realWidth="5128"
+                                           cellBackgroundColor="#000000ff"
+                                           _preview="/Users/nicolas/Documents/assets/images/Fotosearch%20Sport/Fotosearch_ingspymm0049.jpg301">
+                                        <fileSource path="0" dataprovider="852"
+                                                    _previewPath="/Users/nicolas/Documents/assets/images/Fotosearch Sport/Fotosearch_ingspymm0049.jpg"/>
+                                        <actions/>
+                                        <scrollActions/>
+                                        <content relativeX="0" relativeY="0" relativeWidth="1" relativeHeight="1"
+                                                 landscape_relativeX="0" landscape_relativeY="0"
+                                                 landscape_relativeWidth="0" landscape_relativeHeight="0"
+                                                 portrait_relativeX="0" portrait_relativeY="0"
+                                                 portrait_relativeWidth="0" portrait_relativeHeight="0" relativeAltX="0"
+                                                 relativeAltY="0" relativeAltWidth="0" relativeAltHeight="0"
+                                                 useAltCrop="0" useAudioTime="0" customTime="1000" goNextImage="0"/>
+                                        <data/>
+                                        <htmlCaption htmlCustom="0">&lt;div class="left"&gt;&lt;h1&gt;&lt;/h1&gt;&lt;h2&gt;&lt;/h2&gt;&lt;p&gt;&lt;/p&gt;&lt;/div&gt;</htmlCaption>
+                                        <audioFiles/>
+                                    </image>
+                                    <image version="1.0" _version="3.0.9" id="-1" x="0" y="0" width="406" height="283"
+                                           userInteractionEnabled="1" _useOriginalImageAsset="0" _displayName="image-1"
+                                           isPersistent="0" typeId="com.aquafadas.image" canScroll="0" fullScreen="0"
+                                           _useCropForFullScreen="0" transparentInLayout="0" panZoom="0"
+                                           imageFormat="jpeg" jpegPercentCompression="75" gallery="0" galleryScale="1"
+                                           realImageFormat="null" realHeight="5148" realWidth="3394"
+                                           cellBackgroundColor="#000000ff"
+                                           _preview="/Users/nicolas/Documents/assets/images/Fotosearch%20Sport/Fotosearch_ingspymm0051.jpg301">
+                                        <fileSource path="1" dataprovider="852"
+                                                    _previewPath="/Users/nicolas/Documents/assets/images/Fotosearch Sport/Fotosearch_ingspymm0051.jpg"/>
+                                        <actions/>
+                                        <scrollActions/>
+                                        <content relativeX="0" relativeY="0" relativeWidth="1" relativeHeight="1"
+                                                 landscape_relativeX="0" landscape_relativeY="0"
+                                                 landscape_relativeWidth="0" landscape_relativeHeight="0"
+                                                 portrait_relativeX="0" portrait_relativeY="0"
+                                                 portrait_relativeWidth="0" portrait_relativeHeight="0" relativeAltX="0"
+                                                 relativeAltY="0" relativeAltWidth="0" relativeAltHeight="0"
+                                                 useAltCrop="0" useAudioTime="0" customTime="1000" goNextImage="0"/>
+                                        <data/>
+                                        <htmlCaption htmlCustom="0">&lt;div class="left"&gt;&lt;h1&gt;&lt;/h1&gt;&lt;h2&gt;&lt;/h2&gt;&lt;p&gt;&lt;/p&gt;&lt;/div&gt;</htmlCaption>
+                                        <audioFiles/>
+                                    </image>
+                                    <image version="1.0" _version="3.0.9" id="-1" x="0" y="0" width="406" height="283"
+                                           userInteractionEnabled="1" _useOriginalImageAsset="0" _displayName="image-1"
+                                           isPersistent="0" typeId="com.aquafadas.image" canScroll="0" fullScreen="0"
+                                           _useCropForFullScreen="0" transparentInLayout="0" panZoom="0"
+                                           imageFormat="jpeg" jpegPercentCompression="75" gallery="0" galleryScale="1"
+                                           realImageFormat="null" realHeight="5148" realWidth="3398"
+                                           cellBackgroundColor="#000000ff"
+                                           _preview="/Users/nicolas/Documents/assets/images/Fotosearch%20Sport/Fotosearch_ingspymm0054.jpg301">
+                                        <fileSource path="2" dataprovider="852"
+                                                    _previewPath="/Users/nicolas/Documents/assets/images/Fotosearch Sport/Fotosearch_ingspymm0054.jpg"/>
+                                        <actions/>
+                                        <scrollActions/>
+                                        <content relativeX="0" relativeY="0" relativeWidth="1" relativeHeight="1"
+                                                 landscape_relativeX="0" landscape_relativeY="0"
+                                                 landscape_relativeWidth="0" landscape_relativeHeight="0"
+                                                 portrait_relativeX="0" portrait_relativeY="0"
+                                                 portrait_relativeWidth="0" portrait_relativeHeight="0" relativeAltX="0"
+                                                 relativeAltY="0" relativeAltWidth="0" relativeAltHeight="0"
+                                                 useAltCrop="0" useAudioTime="0" customTime="1000" goNextImage="0"/>
+                                        <data/>
+                                        <htmlCaption htmlCustom="0">&lt;div class="left"&gt;&lt;h1&gt;&lt;/h1&gt;&lt;h2&gt;&lt;/h2&gt;&lt;p&gt;&lt;/p&gt;&lt;/div&gt;</htmlCaption>
+                                        <audioFiles/>
+                                    </image>
+                                    <image version="1.0" _version="3.0.9" id="-1" x="0" y="0" width="406" height="283"
+                                           userInteractionEnabled="1" _useOriginalImageAsset="0" _displayName="image-1"
+                                           isPersistent="0" typeId="com.aquafadas.image" canScroll="0" fullScreen="0"
+                                           _useCropForFullScreen="0" transparentInLayout="0" panZoom="0"
+                                           imageFormat="jpeg" jpegPercentCompression="75" gallery="0" galleryScale="1"
+                                           realImageFormat="null" realHeight="3394" realWidth="5148"
+                                           cellBackgroundColor="#000000ff"
+                                           _preview="/Users/nicolas/Documents/assets/images/Fotosearch%20Sport/Fotosearch_ingspymm0056.jpg301">
+                                        <fileSource path="3" dataprovider="852"
+                                                    _previewPath="/Users/nicolas/Documents/assets/images/Fotosearch Sport/Fotosearch_ingspymm0056.jpg"/>
+                                        <actions/>
+                                        <scrollActions/>
+                                        <content relativeX="0" relativeY="0" relativeWidth="1" relativeHeight="1"
+                                                 landscape_relativeX="0" landscape_relativeY="0"
+                                                 landscape_relativeWidth="0" landscape_relativeHeight="0"
+                                                 portrait_relativeX="0" portrait_relativeY="0"
+                                                 portrait_relativeWidth="0" portrait_relativeHeight="0" relativeAltX="0"
+                                                 relativeAltY="0" relativeAltWidth="0" relativeAltHeight="0"
+                                                 useAltCrop="0" useAudioTime="0" customTime="1000" goNextImage="0"/>
+                                        <data/>
+                                        <htmlCaption htmlCustom="0">&lt;div class="left"&gt;&lt;h1&gt;&lt;/h1&gt;&lt;h2&gt;&lt;/h2&gt;&lt;p&gt;&lt;/p&gt;&lt;/div&gt;</htmlCaption>
+                                        <audioFiles/>
+                                    </image>
+                                </images>
+                                <actions/>
+                            </imageCollection>
+                        </extra>
+                    </reader>
+                    <reader type="712" scene_list="4">
+                        <extra>
+                            <video version="1.0" _version="3.0.9" id="362-302" x="80" y="487" width="399" height="250"
+                                   userInteractionEnabled="1" _useOriginalImageAsset="0" _displayName="video302"
+                                   isPersistent="0" loop="0" channel="-1" typeId="com.aquafadas.video" closeAtEnd="1"
+                                   hiddenControlBar="0" groupIds="Calque 1" hidden="0" backgroundColor="#00000000">
+                                <fileSource path="4" dataprovider="852" _previewPath="/Users/nicolas/Movies/2.mov"/>
+                                <actions id="finished"/>
+                            </video>
+                        </extra>
+                    </reader>
+                </readers>
+            </device>
+        </devices>
+    </structure>
+    <bonuss/>
+</structure_info>
