@@ -53,9 +53,9 @@ class Root
         $xmlNode=$dom->createElement($this->_name);
         $xmlNode->setAttribute('version',$this->_version);
         $xmlNode=$dom->appendChild($xmlNode);
-        $xmlName= $dom->createTextNode('');
+        //$xmlName= $dom->createTextNode('');
 
-        $xmlNode->appendChild($xmlName);
+        //$xmlNode->appendChild($xmlName);
 
         return $xmlNode;
 
